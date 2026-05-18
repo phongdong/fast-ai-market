@@ -1,3 +1,15 @@
+---
+title: Fast AI Market
+emoji: 📈
+colorFrom: blue
+colorTo: green
+sdk: streamlit
+sdk_version: "1.45.1"
+python_version: "3.11"
+app_file: app.py
+pinned: false
+---
+
 # Stock Price Prediction App
 
 A Streamlit web app that predicts short-term stock movements using machine learning (XGBoost). Enter a ticker symbol to download historical data, train a model, and view interactive predictions and charts.

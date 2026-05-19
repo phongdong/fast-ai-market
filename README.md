@@ -3,10 +3,8 @@ title: Fast AI Market
 emoji: 📈
 colorFrom: blue
 colorTo: green
-sdk: streamlit
-sdk_version: "1.45.1"
-python_version: "3.11"
-app_file: app.py
+sdk: docker
+app_port: 7860
 pinned: false
 ---
 
